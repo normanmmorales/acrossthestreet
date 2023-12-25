@@ -1,0 +1,29 @@
+/* FOR INDEX.HTML */
+
+#main{
+    background-image: url(/Images/apartment.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: bisque;
+}
+
+.details{
+    margin-top: 18%;
+}
+
+a{
+    color: aquamarine;
+}
+
+button{
+    line-height: 1.5;
+    background-color: #dbd5341f;
+    border-radius: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+}
